@@ -22,4 +22,3 @@
           /> </div> 
     </div>
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=캡스톤 프로젝트 2팀)](https://github.com/anuraghazra/github-readme-stats)
