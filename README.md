@@ -14,7 +14,7 @@
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
           <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
           <img src="https://img.shields.io/badge/Claude-181717?style=for-the-badge&logo=Claude&logoColor=yellow">
-          <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Ngrok&logoColor=white">
+          <img src="https://img.shields.io/badge/Ngrok-181717?style=for-the-badge&logo=Ngrok&logoColor=white">
           <br/></div>
     </div>
     <div style="text-align: left;"> 
