@@ -4,6 +4,8 @@
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 캡스톤 프로젝트 2팀 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
+
+# 악성 QR 코드 생성 및 데이터 탈취 공격 기법
         
 ### 1. QR 코드 생성 및 배포
 공격자는 정상 서비스(공유 킥보드 등)로 위장한 URL을 포함한 QR 코드를 생성한다.  
